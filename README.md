@@ -1,9 +1,7 @@
----
 
-title: Scraping Job Information using Scrapy and Visualizing its Data
-ate: 2019-10-30 23:20:44
-tags:
----
+
+ Scraping Job Information using Scrapy and Visualizing its Data
+
 
 # Overview
 
