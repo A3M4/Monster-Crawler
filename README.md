@@ -1,4 +1,4 @@
-<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">The goal of the Women’s Enterprise Action Loan Fund, (WEALF):Scraping Job Information using Scrapy and Visualizing its Data.</span></div>
+<div style="text-align:center"><span style="color:red; font-family:Georgia; font-size:2em;">Scraping Job Information using Scrapy and Visualizing its Data.</span></div>
 
 
 
